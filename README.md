@@ -22,7 +22,7 @@ A Streamlit-powered chatbot that uses **LangChain agents**, **Groq’s ultra-fas
 
 ## 📷 Preview
 
-![demo](https://via.placeholder.com/800x400?text=Demo+Preview+Coming+Soon)
+![demo](https://langchain-web-search-3eflcdw8gny3uztzf8bcc6.streamlit.app/)
 
 ---
 
